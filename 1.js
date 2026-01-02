@@ -48,3 +48,6 @@ console.table([array,typeof(array)]);
 console.log(array)
 console.log(typeof array)
 console.table(array)
+
+const ar = [2,5,4,8]
+console.log(ar)

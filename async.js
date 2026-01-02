@@ -1,6 +1,4 @@
-
-
-// // Promises
+// Promises
 let ans = new Promise((res, rej) => {
     var n = Math.floor(Math.random() * 10);
 
